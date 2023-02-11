@@ -21,49 +21,49 @@
 
 WinSock (Windows Sockets) は、Microsoft Windows のネットワークAPI。 ネットワーク機能への単一のインターフェイスをアプリケーションプログラマに提供します。 WinSock がアプリケーションとネットワークの間に位置することで、アプリケーションプログラマが 下位レベルのネットワークプロトコルの詳細を気にかけずにすむようにします。 本書で、WinSock による透過的ネットワークプログラミングを身に付けましょう。
 
-### サンプル
+## サンプル
 
-**DataGram**
+### DataGram
 
 ごく単純なコンソールデータグラムクライアントとサーバーのアプリケーション。（第2章）
 
 * [dclient.cpp](samples/Ch02/DataGram/DCLIENT.CPP)
 * [dserver.cpp](samples/Ch02/DataGram/DSERVER.CPP)
 
-**DataGramV6**
+### DataGramV6
 
 上のIPv6対応版。(第2章）
 
 * [dclientv6.cpp](samples/Ch02/DataGramV6/DCLIENTV6.CPP)
 * [dserverv6.cpp](samples/Ch02/DataGramV6/DSERVERV6.CPP)
 
-**GetHTTP**
+### GetHTTP
 
 Webサーバーからファイルを取得するコンソールユーティリティ。（第2章）
 
 * [gethttp.cpp](samples/Ch02/GetHTTP/gethttp.cpp)
 
-**HostInfo**
+### HostInfo
 
 ホスト情報を取得するのに使用するコンソールユーティリティ。（第2章）
 
 * [hostinfo.c](samples/Ch02/HostInfo/hostinfo.c)
 
-**Stream**
+### Stream
 
 単純なコンソールストリームクライアントとサーバーのアプリケーション。（第2章）
 
 * [client.cpp](samples/Ch02/Stream/CLIENT.CPP)
 * [server.cpp](samples/Ch02/Stream/SERVER.CPP)
 
-**StreamV6**
+### StreamV6
 
 上のIPv6対応版。(第2章）
 
 * [clientv6.cpp](samples/Ch02/StreamV6/CLIENTV6.CPP)
 * [serverv6.cpp](samples/Ch02/StreamV6/SERVERV6.CPP)
 
-**WSVer**
+### WSVer
 
 WinSock バージョンネゴシエーションサンプル。（第2章）
 
@@ -75,20 +75,20 @@ WinSock バージョンネゴシエーションサンプル。（第2章）
 * [chekmail.c](samples/Ch04/ChekMail.c)
 * [chekmail.h](samples/Ch04/chekmail.h)
 
-**Ping**  
+### Ping
 
 ICMPソケットと生ソケットを使用するPingプログラム。（第５章）
 
 * [ping.c](samples/Ch05/Ping/Ping.c)
 * [ping.h](samples/Ch05/Ping/PING.H)
 
-**PingI**
+### PingI
 
 Windows専用のMicrosoft ICMP API を使用するPing専用のプログラム。（第５章）
 
 * [pingi.c](samples/Ch05/PingI/pingi.c)
 
-**SendMail**
+### SendMail
 
 Microsoft CSocket クラスを使用して電子メールを送信するTCP/IP クライアントアプリケーション。（第６章）
 
@@ -101,7 +101,7 @@ Microsoft CSocket クラスを使用して電子メールを送信するTCP/IP �
 * [socketx.cpp](samples/Ch06/SendMail/socketx.cpp)
 * [socketx.h](samples/Ch06/SendMail/socketx.h)
 
-**WSTerm**
+### WSTerm
 
 Microsoft CAsyncSocket クラスを使用して汎用端末ユーティリティを作成するTCP/IPクライアントアプリケーション。（第６章）
 
@@ -118,7 +118,7 @@ Microsoft CAsyncSocket クラスを使用して汎用端末ユーティリティ
 * [wsterm.cpp](samples/Ch06/WSTERM/WSTERM.CPP)
 * [wsterm.h](samples/Ch06/WSTERM/WSTERM.H)
 
-**EnumProt**
+### EnumProt
 
 インストールされているすべてのプロトコルおよびプロトコルチェーンの一覧と、その詳細な情報を表示するサンプルプログラム。（第７章）
 
@@ -129,14 +129,14 @@ Microsoft CAsyncSocket クラスを使用して汎用端末ユーティリティ
 * [protstr.c](samples/Ch07/EnumProt/PROTSTR.C)
 * [resource.h](samples/Ch07/EnumProt/RESOURCE.H)
 
-**SelProto**
+### SelProto
 
-**汎用プロトコル選択関数とサンプルプログラム。（第2章）**
+汎用プロトコル選択関数とサンプルプログラム。（第2章）
 
 * [selproto.c](samples/Ch07/SelProto/selproto.c)
 * [test.c](samples/Ch07/SelProto/test.c)
 
-**Services**
+### Services
 
 WinSock 2の名前解決APIを使用して特定のホスト名とサービスに関する情報を表示するMFCサンプルプログラム。（第８章）
 
@@ -149,13 +149,13 @@ WinSock 2の名前解決APIを使用して特定のホスト名とサービス�
 * [services.h](samples/Ch08/Services/Services.h)
 * [sockstr.cpp](samples/Ch08/Services/sockstr.cpp)
 
-**GetHTTP2**
+### GetHTTP2
 
 HTTPサーバーからファイルを取得し、イベントオブジェクトとWSASelectEvent()を使用して非同期通知を行うコンソールユーティリティ。 （第９章）
 
 * [gethttp2.cpp](samples/Ch09/GETHTTP2/gethttp2.cpp)
 
-**GetHTTP3**
+### GetHTTP3
 
 HTTPサーバーからファイルを取得し、WinSock 2の重複I/O関数を使用するコンソールユーティリティ。（第９章）
 
@@ -196,7 +196,8 @@ Server 特定のWinSockバージョンに依存しないデータグラムECHO�
 * [echoui.c](samples/Ch12/server/echoui.c)
 * [socklist.c](samples/Ch12/server/socklist.c)
 
-**全サンプル**
+## 全サンプル
+
 以下アーカイブには、上記で紹介したファイル以外に、リソースファイルやプロジェクトファイルも含まれています。
 
 * [全サンプルのアーカイブ (samples.zip, 872KB)](pub/samples.zip)
