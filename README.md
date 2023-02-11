@@ -11,7 +11,7 @@
 
 価格：￥５，２００（＋税）
 
-[![Amazon.co.jp アソシエイト](images/remote-buy-jp4.gif)](https://www.amazon.co.jp/exec/obidos/ASIN/4797330449/)
+[![Amazon.co.jp アソシエイト](remote-buy-jp4.gif)](https://www.amazon.co.jp/exec/obidos/ASIN/4797330449/)
 
 ![WinSock 2](winsock2_book2.jpg)
 
@@ -21,7 +21,8 @@ WinSock (Windows Sockets) は、Microsoft Windows のネットワークAPI。 �
 
 ### サンプル
 
-**DataGram**  
+**DataGram**
+
 ごく単純なコンソールデータグラムクライアントとサーバーのアプリケーション。（第2章）
 
 * [dclient.cpp](samples/Ch02/DataGram/DCLIENT.CPP)
@@ -34,17 +35,20 @@ WinSock (Windows Sockets) は、Microsoft Windows のネットワークAPI。 �
 * [dclientv6.cpp](samples/Ch02/DataGramV6/DCLIENTV6.CPP)
 * [dserverv6.cpp](samples/Ch02/DataGramV6/DSERVERV6.CPP)
 
-**GetHTTP**  
+**GetHTTP**
+
 Webサーバーからファイルを取得するコンソールユーティリティ。（第2章）
 
 * [gethttp.cpp](samples/Ch02/GetHTTP/gethttp.cpp)
 
-**HostInfo**  
+**HostInfo**
+
 ホスト情報を取得するのに使用するコンソールユーティリティ。（第2章）
 
 * [hostinfo.c](samples/Ch02/HostInfo/hostinfo.c)
 
-**Stream**  
+**Stream**
+
 単純なコンソールストリームクライアントとサーバーのアプリケーション。（第2章）
 
 * [client.cpp](samples/Ch02/Stream/CLIENT.CPP)
@@ -130,7 +134,8 @@ Microsoft CAsyncSocket クラスを使用して汎用端末ユーティリティ
 * [selproto.c](samples/Ch07/SelProto/selproto.c)
 * [test.c](samples/Ch07/SelProto/test.c)
 
-**Services**  
+**Services**
+
 WinSock 2の名前解決APIを使用して特定のホスト名とサービスに関する情報を表示するMFCサンプルプログラム。（第８章）
 
 * [aftostr.cpp](samples/Ch08/Services/aftostr.cpp)
@@ -143,12 +148,14 @@ WinSock 2の名前解決APIを使用して特定のホスト名とサービス�
 * [sockstr.cpp](samples/Ch08/Services/sockstr.cpp)
 
 **GetHTTP2**
+
 HTTPサーバーからファイルを取得し、イベントオブジェクトとWSASelectEvent()を使用して非同期通知を行うコンソールユーティリティ。 （第９章）
 
 * [gethttp2.cpp](samples/Ch09/GETHTTP2/gethttp2.cpp)
 
-**GetHTTP3  
-**HTTPサーバーからファイルを取得し、WinSock 2の重複I/O関数を使用するコンソールユーティリティ。（第９章）
+**GetHTTP3**
+
+HTTPサーバーからファイルを取得し、WinSock 2の重複I/O関数を使用するコンソールユーティリティ。（第９章）
 
 * [gethttp3.cpp](samples/Ch09/Gethttp3/gethttp3.cpp)
 
@@ -187,13 +194,15 @@ Server 特定のWinSockバージョンに依存しないデータグラムECHO�
 * [echoui.c](samples/Ch12/server/echoui.c)
 * [socklist.c](samples/Ch12/server/socklist.c)
 
-**全サンプル**  
+**全サンプル**
 以下アーカイブには、上記で紹介したファイル以外に、リソースファイルやプロジェクトファイルも含まれています。
 
 * [全サンプルのアーカイブ (samples.zip, 872KB)](pub/samples.zip)
 
 **[リンク集](links.htm)**
 
-[![EmEditor Text Editor](https://www.emeditor.com/images/emeditor006.gif "EmEditor Text Editor")](https://www.emeditor.com/)
+<div align="center">
+  <img width="200" src="logo-minified.svg" alt="EmEditor">
+</div>
 
 ##### by Yutaka Emura / Copyright © [株式会社エムソフト](https://jp.emeditor.com/about/about-emurasoft/)
