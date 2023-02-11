@@ -13,7 +13,9 @@
 
 [![Amazon.co.jp アソシエイト](remote-buy-jp4.gif)](https://www.amazon.co.jp/exec/obidos/ASIN/4797330449/)
 
-![WinSock 2](winsock2_book2.jpg)
+<div align="center">
+  <img width="220" src="winsock2_book2.jpg" alt="EmEditor">
+</div>
 
 **Windowsネットワークプログラミングの標準技法**
 
