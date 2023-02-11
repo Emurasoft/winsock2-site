@@ -5,24 +5,29 @@
 ## WinSock プログラミングリソース
 
 [Microsoft Platform SDK](http://www.microsoft.com/msdownload/platformsdk/sdkupdate/)
+https://www.microsoft.com/en-us/download/details.aspx?id=15656
 
 現在 WinSock SDK は、Platform SDK の Core の一部として提供されています。Visual C++ を含む最新のコンパイラには、すでに WinSock の開発に必要なコンパイラやライブラリが含まれており、別途 Platform SDK を入手する必要はありません。しかし、コンパイラのバージョンが古い場合や、最新の OS の機能を利用したい場合には、最新の Platform SDK をダウンロードしてインストールすることができます。
 
 [MSDN Library: Windows Sockets 2](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/winsock/winsock/windows_sockets_start_page_2.asp)
+https://learn.microsoft.com/en-us/windows/win32/winsock/windows-sockets-start-page-2
 
 MSDN ライブラリにて WinSock 2 のリファレンスが提供されています。
 
 [Windows XP IPv6 プロトコルに関する FAQ](http://www.microsoft.com/japan/technet/prodtechnol/winxppro/plan/faqipv6.mspx)
+https://web.archive.org/web/20080726153151/http://www.microsoft.com/japan/technet/prodtechnol/winxppro/plan/faqipv6.mspx
 
 Windows XP/2003 Server における IPv6 プロトコルサポートに関する情報が提供されています。
 
 [WinSock Development Information Page](http://www.sockets.com/)
+https://web.archive.org/web/20220317042300/http://www.sockets.com/winsock2.htm
 
 Bob Quinn による WinSock 専門サイト。多数の優れたアドバイス、サンプルコード、そのほかの情報源へのリンクがあります。Bob Quinn は WinSock 2 Editorial Review Board の議長で、WinSock に精通した専門家です。
 
 ## ネットワークマルチメディア
 
 [RSVP （ReSerVation Protocol）](http://www.isi.edu/div7/rsvp/rsvp.html)
+https://web.archive.org/web/20170502061809/http://www.isi.edu/div7/rsvp/rsvp.html
 
 インターネットでサービス品質 （QoS） をサポートします。
 
@@ -44,7 +49,7 @@ MBONE に関する優れた情報源です。
 
 IP アドレスを拡張する IPv6 に関する情報があります。
 
-[W3C: World Wide Web Consortiumサイト](http://www.w3.org/)
+[W3C: World Wide Web Consortiumサイト](https://www.w3.org/)
 
 HTML、HTTP、その他の World Wide Web 技術に関する情報があります。
 
@@ -54,29 +59,29 @@ HTML、HTTP、その他の World Wide Web 技術に関する情報がありま�
 
 ## インターネット標準
 
-[Internet Engineering Task Force （IETF）](http://www.ietf.org/)
+[Internet Engineering Task Force （IETF）](https://www.ietf.org/)
 
-[The RFC-Editor](http://www.rfc-editor.org/)
+[The RFC-Editor](https://www.rfc-editor.org/)
 
 [JPNIC RFC-JP： RFC 翻訳プロジェクト](http://rfc-jp.nic.ad.jp/)
 
-[Internet Assigned Numbers Authority （IANA）](http://www.iana.org/)
+[Internet Assigned Numbers Authority （IANA）](https://www.iana.org/)
 
 IANA は、標準的なポート番号の割り当てを管理する公式な機関です。
 
-[Internet Research Task Force （IRTF）](http://www.irtf.org/)
+[Internet Research Task Force （IRTF）](https://irtf.org/)
 
-[Internet Architecture Board （IAB）](http://www.iab.org/)
+[Internet Architecture Board （IAB）](https://www.iab.org/)
 
-[Internet Society](http://www.isoc.org/)
+[Internet Society](https://www.internetsociety.org/)
 
-[Internet Network Information Center](http://www.internic.net/)
+[Internet Network Information Center](https://www.internic.net/)
 
-[日本ネットワークインフォメーションセンター （JPNIC） サイト](http://www.nic.ad.jp/)
+[日本ネットワークインフォメーションセンター （JPNIC） サイト](https://www.nic.ad.jp/)
 
 ## WinSock 開発ツール
 
-[Win-Tech サイト](http://www.win-tech.com/)
+[Win-Tech サイト](https://www.win-tech.com/)
 
 Winsock API トレースユーティリティ製品である Socket Spy を開発したベンダーです。
 
