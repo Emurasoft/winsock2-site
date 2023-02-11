@@ -202,10 +202,12 @@ Server 特定のWinSockバージョンに依存しないデータグラムECHO�
 
 * [全サンプルのアーカイブ (samples.zip, 872KB)](https://github.com/Emurasoft/winsock2-site/raw/main/wwwroot/pub/samples.zip)
 
-**[リンク集](links.htm)**
+**[リンク集](links.md)**
 
 <div align="center">
-  <img width="200" src="logo-minified.svg" alt="EmEditor">
+    <a href="https://www.emeditor.com/">
+        <img width="200" src="logo-minified.svg" alt="EmEditor">
+    </a>
 </div>
 
-##### by Yutaka Emura / Copyright © [株式会社エムソフト](https://jp.emeditor.com/about/about-emurasoft/)
+by Yutaka Emura / Copyright © [株式会社エムソフト](https://jp.emeditor.com/about/about-emurasoft/)
