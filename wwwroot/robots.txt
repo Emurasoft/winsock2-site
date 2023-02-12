@@ -1,6 +1,0 @@
-# robots.txt for http://winsock2.org/
-
-User-agent: *
-Disallow: /cgi-bin/
-Disallow: /pub/
-Disallow: /test/
