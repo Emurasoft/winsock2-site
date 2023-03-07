@@ -5,29 +5,24 @@
 ## WinSock プログラミングリソース
 
 [Microsoft Platform SDK](http://www.microsoft.com/msdownload/platformsdk/sdkupdate/)
-https://www.microsoft.com/en-us/download/details.aspx?id=15656
 
 現在 WinSock SDK は、Platform SDK の Core の一部として提供されています。Visual C++ を含む最新のコンパイラには、すでに WinSock の開発に必要なコンパイラやライブラリが含まれており、別途 Platform SDK を入手する必要はありません。しかし、コンパイラのバージョンが古い場合や、最新の OS の機能を利用したい場合には、最新の Platform SDK をダウンロードしてインストールすることができます。
 
 [MSDN Library: Windows Sockets 2](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/winsock/winsock/windows_sockets_start_page_2.asp)
-https://learn.microsoft.com/en-us/windows/win32/winsock/windows-sockets-start-page-2
 
 MSDN ライブラリにて WinSock 2 のリファレンスが提供されています。
 
 [Windows XP IPv6 プロトコルに関する FAQ](http://www.microsoft.com/japan/technet/prodtechnol/winxppro/plan/faqipv6.mspx)
-https://web.archive.org/web/20080726153151/http://www.microsoft.com/japan/technet/prodtechnol/winxppro/plan/faqipv6.mspx
 
 Windows XP/2003 Server における IPv6 プロトコルサポートに関する情報が提供されています。
 
 [WinSock Development Information Page](http://www.sockets.com/)
-https://web.archive.org/web/20220317042300/http://www.sockets.com/winsock2.htm
 
 Bob Quinn による WinSock 専門サイト。多数の優れたアドバイス、サンプルコード、そのほかの情報源へのリンクがあります。Bob Quinn は WinSock 2 Editorial Review Board の議長で、WinSock に精通した専門家です。
 
 ## ネットワークマルチメディア
 
 [RSVP （ReSerVation Protocol）](http://www.isi.edu/div7/rsvp/rsvp.html)
-https://web.archive.org/web/20170502061809/http://www.isi.edu/div7/rsvp/rsvp.html
 
 インターネットでサービス品質 （QoS） をサポートします。
 

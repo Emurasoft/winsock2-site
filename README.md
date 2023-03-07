@@ -200,7 +200,7 @@ Server 特定のWinSockバージョンに依存しないデータグラムECHO�
 
 以下アーカイブには、上記で紹介したファイル以外に、リソースファイルやプロジェクトファイルも含まれています。
 
-* [全サンプルのアーカイブ (samples.zip, 872KB)](https://github.com/Emurasoft/winsock2-site/raw/main/wwwroot/pub/samples.zip)
+* [全サンプルのアーカイブ (samples.zip, 872KB)](https://github.com/Emurasoft/winsock2-site/raw/main/samples.zip)
 
 **[リンク集](links.md)**
 
